@@ -4,8 +4,8 @@ import fitz  # PyMuPDF
 import pandas as pd
 
 # --- CONFIGURACIÓN ---
-MES = "09.septiembre"  # <--- CAMBIA ESTO PARA CADA MES
-EXCEL_NAME = "listado_septiembre.xlsx"  # Asegúrate que coincida con el nombre del Excel del mes
+MES = "12.diciembre"  # <--- CAMBIA ESTO PARA CADA MES
+EXCEL_NAME = "listado_diciembre.xlsx"  # Asegúrate que coincida con el nombre del Excel del mes
 
 # --- RUTAS DINÁMICAS ---
 BASE_DIR = os.path.join("data", MES)

@@ -2,8 +2,8 @@ import os
 import pandas as pd
 
 # --- CONFIGURACIÓN DEL MES ---
-MES = "09.septiembre"  # <--- CAMBIA ESTO PARA CADA MES
-EXCEL_NAME = "listado_septiembre.xlsx"
+MES = "12.diciembre"  # <--- CAMBIA ESTO PARA CADA MES
+EXCEL_NAME = "listado_diciembre.xlsx"
 CSV_MATCH = f"output/{MES}/resultados_facturas.csv"
 CSV_NO_MATCH = f"output/{MES}/no_match_log.csv"
 EXCEL_PATH = f"data/{MES}/{EXCEL_NAME}"

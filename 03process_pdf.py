@@ -3,8 +3,8 @@ import fitz  # PyMuPDF
 import pandas as pd
 
 # --- CONFIGURACIÓN DEL MES ---
-MES = "08.agosto"  # <--- CAMBIA ESTO PARA CADA MES
-EXCEL_NAME = "listado_agosto_con_pdf.xlsx"
+MES = "10.octubre"  # <--- CAMBIA ESTO PARA CADA MES
+EXCEL_NAME = "listado_octubre_con_pdf.xlsx"
 SHEET_NAME = None  # Si el Excel tiene varias hojas y necesitas una en concreto
 
 # --- RUTAS ---
